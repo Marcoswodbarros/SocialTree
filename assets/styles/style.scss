@@ -1,0 +1,13 @@
+@import 'abstract/variables';
+@import 'components/header';
+@import 'components/main';
+@import 'components/footer';
+
+*{
+    box-sizing: border-box;
+    font-family: $poppins;
+}
+
+body{
+    background-color: $color-body-bg;
+}

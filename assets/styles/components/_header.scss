@@ -1,0 +1,24 @@
+header{
+    display: flex;
+    justify-content: center;
+    padding-top: .5rem;
+
+    .fa-sun{
+        color: $color-purple;
+        cursor: pointer;
+
+        @media screen and (min-width: $desktop){
+            font-size: 1.5rem;
+        }
+    }
+
+    .fa-moon{
+        color: $color-purple;
+        cursor: pointer;
+        display: none;
+
+        @media screen and (min-width: $desktop){
+            font-size: 1.5rem;
+        }
+    }
+}

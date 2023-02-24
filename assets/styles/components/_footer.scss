@@ -1,0 +1,21 @@
+footer{
+    bottom: 0;
+    color: $color-purple;
+    left: 50%;
+    padding-bottom: .5rem;
+    position: absolute;
+    transform: translate(-50%);
+
+    span{
+        font-size: .6rem;
+
+        @media screen and (min-width: $desktop){
+            font-size: 1.3rem;
+        }
+
+        a{
+            color: $color-purple;
+            text-decoration: none;
+        }
+    }
+}
