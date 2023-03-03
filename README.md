@@ -1,6 +1,6 @@
-# Landing Pages - Spark Project
+# Landing Pages - Social Tree
 
-This is my first challenge from the Rocketseat.
+This is my first challenge from Rocketseat.
 
 ## Table of contents
 
@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Marcoswodbarros/DesafiosRocketseat.git]
+- Solution URL: [https://github.com/Marcoswodbarros/SocialTree.git]
 
 
 ## My process
