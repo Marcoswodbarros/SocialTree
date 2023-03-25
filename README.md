@@ -1,4 +1,4 @@
-# Landing Pages - Social Tree
+# Rocketseat Challenge - Social Tree
 
 This is my first challenge from Rocketseat.
 
@@ -36,6 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Marcoswodbarros/SocialTree.git]
+- Deploy: [https://marcoswodbarros.github.io/SocialTree/]
 
 
 ## My process
